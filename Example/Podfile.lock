@@ -1,0 +1,16 @@
+PODS:
+  - SideMenuKit (0.1.12)
+
+DEPENDENCIES:
+  - SideMenuKit (from `../`)
+
+EXTERNAL SOURCES:
+  SideMenuKit:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  SideMenuKit: be33e208b4113f12116c12f1d77850cb31d17722
+
+PODFILE CHECKSUM: a52839e5fab8acc97f570448b8dfcb4cdc1a3692
+
+COCOAPODS: 1.15.2

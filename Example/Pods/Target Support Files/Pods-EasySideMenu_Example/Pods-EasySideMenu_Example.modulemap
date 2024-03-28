@@ -1,0 +1,6 @@
+framework module Pods_EasySideMenu_Example {
+  umbrella header "Pods-EasySideMenu_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}
