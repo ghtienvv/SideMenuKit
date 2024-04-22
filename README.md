@@ -16,13 +16,13 @@ pod 'SideMenuKit'
 ```
 ### Swift Package Manager
 1. File > Swift Packages > Add Package Dependency
-2. Add ```https://github.com/tienvv88/SideMenuKit.git```
+2. Add ```https://github.com/ghtienvv/SideMenuKit.git```
    
 OR
 
 Update ```dependencies``` in ```Package.swift```
 ```ruby
-dependencies: [.package(url: "[https://github.com/tienvv88/SideMenuKit.git]", .upToNextMajor(from: "0.1.12"))]
+dependencies: [.package(url: "[https://github.com/ghtienvv/SideMenuKit.git]", .upToNextMajor(from: "0.0.1"))]
 ```
 
 ## Demo
@@ -221,7 +221,7 @@ Please thoroughly test all changes and create an MR according to the template, w
 
 ## Author
 
-tienvv88, iostienvv@gmail.com
+ghtienvv, it.tienvv@gmail.com
 
 ## License
 
