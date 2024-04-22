@@ -1,6 +1,6 @@
 {
   "name": "SideMenuKit",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "license": {
     "type": "MIT",
     "file": "LICENSE"
@@ -12,7 +12,7 @@
   },
   "source": {
     "git": "https://github.com/ghtienvv/SideMenuKit.git",
-    "tag": "0.0.1"
+    "tag": "0.0.2"
   },
   "swift_versions": "5.0",
   "platforms": {

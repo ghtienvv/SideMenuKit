@@ -22,7 +22,7 @@ OR
 
 Update ```dependencies``` in ```Package.swift```
 ```ruby
-dependencies: [.package(url: "[https://github.com/ghtienvv/SideMenuKit.git]", .upToNextMajor(from: "0.0.1"))]
+dependencies: [.package(url: "[https://github.com/ghtienvv/SideMenuKit.git]", .upToNextMajor(from: "0.0.2"))]
 ```
 
 ## Demo

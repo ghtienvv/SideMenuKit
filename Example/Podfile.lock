@@ -1,5 +1,5 @@
 PODS:
-  - SideMenuKit (0.0.1)
+  - SideMenuKit (0.0.2)
 
 DEPENDENCIES:
   - SideMenuKit (from `../`)
@@ -9,7 +9,7 @@ EXTERNAL SOURCES:
     :path: "../"
 
 SPEC CHECKSUMS:
-  SideMenuKit: 7cc97ae2a9ec4dd225fea14d530636c154bc3d63
+  SideMenuKit: d4260b2c60bdab3da1fb87e0b6a1c2feb45790a4
 
 PODFILE CHECKSUM: a52839e5fab8acc97f570448b8dfcb4cdc1a3692
 
