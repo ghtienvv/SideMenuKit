@@ -225,4 +225,4 @@ ghtienvv, it.tienvv@gmail.com
 
 ## License
 
-SideMenuKit is available under the MIT license. See the [LICENSE](https://github.com/tienvv88/SideMenuKit?tab=MIT-1-ov-file) file for more info.
+SideMenuKit is available under the MIT license. See the [LICENSE](https://github.com/ghtienvv/SideMenuKit?tab=MIT-1-ov-file) file for more info.
